@@ -246,3 +246,6 @@ body{
   height: 46px;
   border-radius: 50%;
 }
+#about{
+  background-color: rgba(179, 179, 179, 0.05);
+}
