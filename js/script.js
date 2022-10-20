@@ -16,3 +16,5 @@ var $grid = $('.collection-list').isotope({
       $(this).removeClass('active-filter-btn');
     });
   }
+
+  
